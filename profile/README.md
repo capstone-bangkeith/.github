@@ -1,3 +1,4 @@
+![Eva banner](./eva_banner.png "Evangelion Banner")
 # Bangkit 2022 C22-KY05 Company-Based-Capstone-Project
 **Validating KTP with an auto-filled form using OCR**   
 ## Hello Everyone! 👋 

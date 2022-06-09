@@ -2,6 +2,8 @@
 
 This project is using [Fastify](https://www.fastify.io/) as the server.
 
+## [Repo](https://github.com/capstone-bangkeith/validin-backend)
+
 ## Stack
 
 - [Node.js](https://nodejs.org/)

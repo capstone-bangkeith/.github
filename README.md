@@ -3,9 +3,8 @@
 - Project Name: Validin
 - Project Themes: Validating KTP with an Auto-Filled Form Using OCR
 
-## Repos
+## Paths
 
-- [Mobile App](https://github.com/capstone-bangkeith/validin-apps)
-- [Cloud](https://github.com/capstone-bangkeith/validin-backend)
-- [Machine Learning](https://github.com/capstone-bangkeith/validin-ml)
-
+- [Mobile App](https://capstone-bangkeith.github.io/.github/#/MD)
+- [Cloud](https://capstone-bangkeith.github.io/.github/#/CC)
+- [Machine Learning](https://capstone-bangkeith.github.io/.github/#/ML)
